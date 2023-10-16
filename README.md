@@ -1,4 +1,6 @@
 # To-Predict-the-passenger-survival-on-Titanic
+Titanic Problem is based on the sinking of the ‘Unsinkable’ ship Titanic in the early 1912. It gives information about multiple people like their ages, sex, sibling counts, embarkment points and whether or not they survived the disaster. Based on these features, we have to predict if an arbitrary passenger on Titanic would survive the sinking.
+![image](https://github.com/Jaanu93/To-Predict-the-passenger-survival-on-Titanic/assets/95671214/ee9a30a8-95e7-4703-9537-d16ee70d0912)
 
 ---
 title: "Data Mining and Machine Learning"
